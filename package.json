@@ -4,6 +4,10 @@
   "main": "index.js",
   "author": "Vinay Putreddi",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VinnyPutty/invoicer-angular-demo1.git"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
